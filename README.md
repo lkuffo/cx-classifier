@@ -6,7 +6,6 @@ Binary text categorization classifier which detects the presence or not of custo
 - I had a horrible experience at your store in Weirton WV and I left my groceries and went to Walmart instead. I wish you hired employees that better customer service skills because after 20yrs of shopping their I may as well not go back.
 - Followed all advice online on how to fix the 'moisture detected in charge port' error on note8. Keeps coming back for months. Phone hasn't ever been wet. Cannot charge. Sitting in a goddamn car balancing on wireless charging pad.
 - Great customer experience!
-- Im in love with your store
 
 #### Examples of messages that the classifier will detect as NOT related to CX:   
 - Congratulations to Jessica who was hired to work on The Dollar Tree!
