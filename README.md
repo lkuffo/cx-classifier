@@ -22,7 +22,7 @@ Binary text categorization classifier which detects the presence or not of custo
 Trained using 4000 samples of Tweets mentioning brands from the following industries: apparel, bank, big box, book, boutique, convenience, cosmetics, department, electronics, food, furniture, gift shop, jewerly, office supplies, pet, pharmacy, sporting goods, supermarket, warehouse. 
 
 ### Training Features
-Text transformed to vector space using TF-IDF.
+Text transformed to vector space using log normalized TF-IDF.
 
 For better results, test must be preprocessed: 
 - Removed non-alphabetic characters, emoticons, mentions, URLs.   
