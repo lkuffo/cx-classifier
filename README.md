@@ -1,5 +1,5 @@
-# Customer Experience Automated Detection
-Binary text categorization classifier which detects the presence or not of customer experience manifestations in a message.   
+# Automated Detection of Customer Experience: A Machine Learning Text Classifier
+Binary text categorization classifier which detects the presence or not of customer experience manifestations in a message. Trained with messages from Twitter. Achieved an accuracy of 0.912 in other messages from that Social Network.
     
 #### Examples of messages that the classifier will detect as related to CX:   
 - I want to give a huge shout out and thanks to @nordstromrack employee #10010692. He processed my return on Monday and made it so pleasant! No judgement or complaining about the task despite a huge box of stuff. He was so friendly! Thank you!
